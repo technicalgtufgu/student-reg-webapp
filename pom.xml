@@ -29,7 +29,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://13.56.189.47:8081/repository/student-repo-weapp-snapshot/</url>
+			<url>http://13.56.189.47:8081/repository/student-reg-weapps-1/</url>
 		</snapshotRepository>
     </distributionManagement>
 
